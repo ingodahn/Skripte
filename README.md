@@ -5,4 +5,4 @@ Willkommen! Hier findest du interaktive Notebooks, die direkt in Google Colab ge
 
 ## 📂 Notebooks
 
-- [Intro Notebook](https://colab.research.google.com/github/ingodahn/Skripte/blob/main/Vektoranalysis/notebooks/Kurvenintegrale.ipynb)
+- [Kurvenintegrale](https://colab.research.google.com/github/ingodahn/Skripte/blob/master/Vektoranalysis/notebooks/Kurvenintegrale.ipynb)
